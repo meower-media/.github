@@ -1,4 +1,4 @@
-![alt text](https://meower.org/assets/logo.svg)
+![Meower logo](https://meower.org/assets/logo.svg)
 ## Welcome to Meower Media Co!
 
 Meower is a free, open-source, and nonprofit social media platform. Meower is also a (currently WIP) alternative to Twitter, Discord, and Reddit, completely free of advertising, tracking, data collection, and more!
@@ -18,6 +18,10 @@ Everyone is welcome to use Meower. We don't have censorship, we have no politica
 **Simple and elegant**
 
 Meower's designed to be as easy to use. What you see, is what you get.
+
+**Fully FOSS**
+
+Anyone is welcome to contribute to Meower on [GitHub](https://github.com/meower-media-co/). If you know Python, Scratch, HTML5, JavaScript, Node, Vue, Etc. You're welcome to join the party!
 
 ## How do I join?
 Meower is free, and always will be free, available right [here](https://app.meower.org).
