@@ -1,7 +1,7 @@
 ![Meower logo](https://meower.org/assets/logo.svg)
-## Welcome to Meower Media Co!
+## Welcome to Meower Media Co.!
 
-Meower is a free, open-source, and nonprofit social media platform. Meower is also a (currently WIP) alternative to Twitter, Discord, and Reddit, completely free of advertising, tracking, data collection, and more!
+Meower is a free, open-source, and non-profit social media platform. Meower is also a (currently WIP) alternative to Twitter, Discord, and Reddit, completely free of advertising, tracking, data collection, and more!
 
 **A friendly place to be**
 
