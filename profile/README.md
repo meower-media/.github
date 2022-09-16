@@ -1,27 +1,22 @@
 ![Meower logo](https://meower.org/assets/logo.svg)
-## Welcome to Meower Media Co.!
+## Welcome!
+Welcome to Meower's official Github organization! If you need to get in contact with the Meower Team, please send a message to support@meower.org.
 
-Meower is a free, open-source, and non-profit social media platform. Meower is also a (currently WIP) alternative to Twitter, Discord, and Reddit, completely free of advertising, tracking, data collection, and more!
+## What is Meower?
+Meower is:
+* A free, open-source, and non-profit social media platform. 
+* A work-in-progress alternative to other social media platforms.
+* Completely free of advertising, tracking, and unnecessary data collection!
+* Filled with cats (Meowies), (bad) jokes, and easter eggs.
 
-**A friendly place to be**
+## Cool! How do I get on Meower?
+Easy! Just visit any of our clients below:
+- [Scratch Client](https://app.meower.org/): The original Meower client! Do not use if you have a slow computer or you are using a mobile device.
+- [Svelte Client](https://svelte.meower.org/): Meower's rising star! Recommended for mobile devices or slower computers.
 
-Designed to be friendly for all ages, Meower has moderators and friends all-around. We're committed to keeping Meower a safe place to be.
-
-**An original**
-
-Meower started life as a Scratch 3.0-based social media platform. We have a long history, too! Check out our [wiki](https://wiki.meower.org) for more info!
-
-**Freedom to the masses**
-
-Everyone is welcome to use Meower. We don't have censorship, we have no political agendas, and we don't care about money. Meower is just a place to hang out, nothing more, nothing less.
-
-**Simple and elegant**
-
-Meower's designed to be as easy to use. What you see, is what you get.
-
-**Fully FOSS**
-
-Anyone is welcome to contribute to Meower on [GitHub](https://github.com/meower-media-co/). If you know Python, Scratch, HTML5, JavaScript, Node, Vue, Etc. You're welcome to join the party!
-
-## How do I join?
-Meower is free, and always will be free, available right [here](https://app.meower.org).
+## Projects
+- [Svelte Client](https://github.com/meower-media-co/Meower-Svelte): The newest Meower client.
+- [Scratch Client](https://github.com/meower-media-co/Meower-Vanilla): The original Meower client. Scratch clients will be retired in Beta 6.
+- [Octavia](https://github.com/meower-media-co/Octavia): A chatbot for Meower and a base for bots.
+- [Server](https://github.com/meower-media-co/Meower-Server): The official Meower server.
+- [Discord Bot](https://github.com/meower-media-co/Meower-Discord-Bot): The Meower Discord bridge.
