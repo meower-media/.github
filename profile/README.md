@@ -3,15 +3,13 @@
 Welcome to Meower's official Github organization! If you need to get in contact with the Meower Team, please send a message to support@meower.org.
 
 ## What is Meower?
-Meower is:
-* A free, open-source, and non-profit social media platform. 
-* A work-in-progress alternative to other social media platforms.
-* Completely free of advertising, tracking, and unnecessary data collection!
-* Filled with cats (Meowies), (bad) jokes, and easter eggs.
+Meower is a friendlier social media platform. Meower is completely free to use, 100% open-source, advertisement and tracker free, all
+while being designed for humans. There's fluffy cats, easter eggs, (bad) jokes and more. 
 
 ## Cool! How do I get on Meower?
 Easy! Just visit any of our clients below:
-- [Scratch Client](https://app.meower.org/): The original Meower client! Do not use if you have a slow computer or you are using a mobile device.
+- [Scratch Client](https://app.meower.org/): The original Meower client! Do not use if you have a slow computer or you are using a mobile device. Recommended if you want the full Meower experience while we continue evolving.
+
 - [Svelte Client](https://svelte.meower.org/): Meower's rising star! Recommended for mobile devices or slower computers.
 
 ## Projects
