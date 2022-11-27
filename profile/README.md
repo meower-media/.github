@@ -14,7 +14,7 @@ Easy! Just visit any of our clients below:
 
 ## Projects
 - [Svelte Client](https://github.com/meower-media-co/Meower-Svelte): The newest Meower client.
-- [Scratch Client](https://github.com/meower-media-co/Meower-Vanilla): The original Meower client. Scratch clients will be retired in Beta 6.
+- [Scratch Client](https://github.com/meower-media-co/Meower-Vanilla): The original Meower client. Scratch clients will be retired in Release 1.
 - [Octavia](https://github.com/meower-media-co/Octavia): A chatbot for Meower and a base for bots.
 - [Server](https://github.com/meower-media-co/Meower-Server): The official Meower server.
 - [Discord Bot](https://github.com/meower-media-co/Meower-Discord-Bot): The Meower Discord bridge.
