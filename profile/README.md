@@ -17,6 +17,5 @@ Easy! Just visit any of our clients below:
 - [Scratch Client](https://github.com/meower-media-co/Meower-Vanilla): The original Meower client. Scratch clients will be retired in Release 1.
 - [Openly](https://github.com/meower-media-co/Openly-Website): A code snippets website
 - [Gamr](https://github.com/meower-media-co/Gamr-Website): Social media to post, play, and talk games.
-- [Octavia](https://github.com/meower-media-co/Octavia): A chatbot for Meower and a base for bots.
 - [Server](https://github.com/meower-media-co/Meower-Server): The official Meower server.
 - [Discord Bot](https://github.com/meower-media-co/Meower-Discord-Bot): The Meower Discord bot.
