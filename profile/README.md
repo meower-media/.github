@@ -8,9 +8,9 @@ while being designed for humans. There are fluffy cats, easter eggs, (bad) jokes
 
 ## Cool! How do I get on Meower?
 Easy! Just visit any of our clients below:
-- [Svelte Client](https://svelte.meower.org/): Meower's main client! Recommended for mobile devices or slower computers.
+- [Svelte Client](https://app.meower.org/): Meower's main client! Recommended for mobile devices or slower computers.
 
-- [Scratch Client](https://app.meower.org/): The original Meower client! Do not use it if you have a slow computer or you are using a mobile device.
+- [Scratch Client](https://old.meower.org/): The original Meower client! Do not use it if you have a slow computer or you are using a mobile device.
 
 ## Projects
 - [Svelte Client](https://github.com/meower-media-co/Meower-Svelte): The main Meower client.
