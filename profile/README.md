@@ -14,6 +14,7 @@ Easy! Just visit any of our clients below:
 
 ## Projects
 - [Svelte Client](https://github.com/meower-media-co/Meower-Svelte): The main Meower client.
+- [SvelteKit Client](https://github.com/meower-media-co/Meower-SvelteKit): A WIP Meower client written in SvelteKit for MPA support
 - [Scratch Client](https://github.com/meower-media-co/Meower-Vanilla): The original Meower client. Scratch clients will be retired in Release 1.
 - [Server](https://github.com/meower-media-co/Meower-Server): The official Meower server.
 - [Discord Bot](https://github.com/meower-media-co/Meower-Discord-Bot): The Meower Discord bot.
