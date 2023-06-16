@@ -1,4 +1,7 @@
 ![Meower logo](https://meower.org/assets/logo.svg)
+
+![tosdr shield](https://shields.tosdr.org/7344.svg)
+
 ## Welcome!
 Welcome to Meower's official Github organization! If you need to get in contact with the Meower Team, please send a message to support@meower.org.
 
