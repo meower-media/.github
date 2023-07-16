@@ -1,4 +1,4 @@
-![meowermedia](https://github.com/meower-media-co/.github-private/assets/66215843/aee815c1-88ad-4fe0-8554-bd55627dd951)
+![meowermedia](https://github.com/meower-media-co/.github/assets/61485190/b0e01637-59ee-4b69-9168-d963552c0f70)
 
 [![tosdr shield](https://shields.tosdr.org/7344.svg)](https://tosdr.org/en/service/7344)
 
