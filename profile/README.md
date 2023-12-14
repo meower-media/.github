@@ -21,4 +21,3 @@ Easy! [Click me to launch Meower!](https://app.meower.org/)
 - [SvelteKit Client](https://github.com/meower-media-co/Meower-SvelteKit): A WIP Meower client written in SvelteKit for MPA support
 - [Server](https://github.com/meower-media-co/Meower-Server): The official Meower server.
 - [Discord Bot](https://github.com/meower-media-co/Meower-Discord-Bot): The Meower Discord bot.
-- [Niotron Client](https://github.com/meower-media-co/meower-niotron): The official remaster of the original Meower Mobile app, made using Niotron.
