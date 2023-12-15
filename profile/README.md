@@ -18,6 +18,5 @@ Easy! [Click me to launch Meower!](https://app.meower.org/)
 
 ## Projects
 - [Svelte Client](https://github.com/meower-media-co/Meower-Svelte): The main Meower client.
-- [SvelteKit Client](https://github.com/meower-media-co/Meower-SvelteKit): A WIP Meower client written in SvelteKit for MPA support
 - [Server](https://github.com/meower-media-co/Meower-Server): The official Meower server.
 - [Discord Bot](https://github.com/meower-media-co/Meower-Discord-Bot): The Meower Discord bot.
