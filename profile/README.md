@@ -17,6 +17,5 @@ and friendlier usage of social media, and uphold individual rights and privacy.
 Easy! [Click me to launch Meower!](https://app.meower.org/)
 
 ## Projects
-- [Svelte Client](https://github.com/meower-media-co/Meower-Svelte): The main Meower client.
-- [Server](https://github.com/meower-media-co/Meower-Server): The official Meower server.
-- [Discord Bot](https://github.com/meower-media-co/Meower-Discord-Bot): The Meower Discord bot.
+- [Svelte Client](https://github.com/meower-media/Meower-Svelte): The main Meower client.
+- [Server](https://github.com/meower-media/server): The official Meower server.
